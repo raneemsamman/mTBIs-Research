@@ -6,6 +6,6 @@ This issue posses a great danger on the patients because they are often diagnose
 
 This code was my research project in the summer of 2022 with professor Sara Jamshidi and a fellow student, Jovana Jovanovska. 
 
-# The proposal won us a spot to be amongest the copeititve data sciecne and mathematics scholarship, the 2022 James Rocco Scholars.
+### The proposal won us a spot to be amongest the copeititve data sciecne and mathematics scholarship, the 2022 James Rocco Scholars.
 
 You can find the code in the file you just accessed. 
